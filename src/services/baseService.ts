@@ -1,4 +1,4 @@
-import fs from "fs";
+import * as fs from "fs";
 
 const userJsonPath = "./src/data/users.json";
 
